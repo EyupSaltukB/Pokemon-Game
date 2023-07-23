@@ -5,10 +5,10 @@ Ekran her yenilendiğinde 4'erli takımlardan deneyim toplamı yüksek olan kaza
 
 <h2> Kullanılan Teknolojiler</h2>
 
-§ React,
-§ Javascript, 
-§ HTML ve 
-§ CSS kullanıldı.
+• React,
+• Javascript, 
+• HTML ve 
+• CSS kullanıldı.
 
 
 <h3>Ekran Görüntüleri</h3>
