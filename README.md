@@ -7,7 +7,7 @@ Ekran her yenilendiğinde 4'erli takımlardan deneyim toplamı yüksek olan kaza
 
 • React,
 • Javascript, 
-• HTML ve 
+• HTML 
 • CSS kullanıldı.
 
 
