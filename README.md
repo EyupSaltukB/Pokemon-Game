@@ -1,4 +1,4 @@
-h1>Pokemon Oyunu</h1>
+<h1>Pokemon Oyunu</h1>
 
 React ile Pokemon oyunu. 
 Ekran her yenilendiğinde 4'erli takımlardan deneyim toplamı yüksek olan kazanır.
