@@ -18,6 +18,9 @@ React,Javascript, HTML ve CSS kullanıldı.
 
 ![](images/PokeGame%20-%20Google%20Chrome%202023-07-23%2013-44-43.mp4)
 
+<h5>GIF</h5>
+![pokegif](https://github.com/EyupSaltukB/Pokemon-Game/assets/129687853/ae35d0df-a890-45ed-ad46-1ece88dbfc64)
+
 
 -------------------------------------------------------------------------
 
