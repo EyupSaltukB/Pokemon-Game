@@ -1,6 +1,8 @@
 <h1>Pokemon Oyunu</h1>
 
 React ile Pokemon oyunu. 
+(Pokemon game with React.)
+
 Ekran her yenilendiğinde 4'erli takımlardan deneyim toplamı yüksek olan kazanır.
 
 <h2> Kullanılan Teknolojiler</h2>
