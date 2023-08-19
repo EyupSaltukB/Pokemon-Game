@@ -3,6 +3,7 @@
 React ile Pokemon oyunu. 
 (Pokemon game with React.)
 
+React ile yazılmış basit yapılı bir oyundur.
 Ekran her yenilendiğinde 4'erli takımlardan deneyim toplamı yüksek olan kazanır.
 
 <h2> Kullanılan Teknolojiler</h2>
